@@ -5,7 +5,7 @@ const bot = mineflayer.createBot({
   host: 'Error404-OrphanFound.aternos.me',
   port: 57527,
   username: 'TechnoBladeNeverDies',
-  version: '1.21.11',
+  version: '1.21.4',
   auth: 'offline'
 });
 
